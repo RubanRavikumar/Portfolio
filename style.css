@@ -544,6 +544,11 @@ body{
         text-align: center;
     }
 
+    #navbar{
+        background-color: transparent;
+        position:static;
+    }
+
     .navbar-wrapper{
         display: flex;
         flex-direction: column;
@@ -564,7 +569,6 @@ body{
 
     .container-section{
         width: 100%;
-        align-items: center;
     }
 
     .container-section>div{
